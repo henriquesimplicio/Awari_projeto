@@ -1,4 +1,4 @@
-# Efeitos da Vulnerabilidade no Desempenho Acadêmico
+# Efeitos de Vulnerabilidades no Desempenho Acadêmico
 
 No mundo globalizado, o desempenho matemático tem-se mostrado uma variável de
 fundamental importância para o bem estar do indivíduo. Os benefícios em conhecer
